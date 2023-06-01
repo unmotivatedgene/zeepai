@@ -15,7 +15,7 @@ Below is the prompt I settled on for interfacing with ChatGPT. GPT-4 performed m
 
 After entering the large prompt you can then do stuff like this:
 ```
-Make me a track that starts off with a strong booster, 5 straight peices then a slope bottom up, 10 gap pieces and then 5 more straigts and a finish.
+Make me a track that starts off with a strong booster, 5 straight peices then a slope bottom up, 10 gap pieces and then 5 more straits and a finish.
 ```
 and receive you track ready to go.
 
