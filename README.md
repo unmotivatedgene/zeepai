@@ -17,7 +17,7 @@ After entering the large prompt you can then do stuff like this:
 ```
 Make me a track that starts off with a strong booster, 5 straight peices then a slope bottom up, 10 gap pieces and then 5 more straights and a finish.
 ```
-and receive you track ready to go.
+and receive your track ready to go.
 
 ```
 Your task is to design a track for the gravity-based racing game, "Zeepkist". You'll need to consider elements like gravity, momentum, turns and track inclination. Our track starts at the top of a hill. Your track design should follow the rules and pieces mentioned below, and should aim for excitement and fun. After reading the following guidelines and available pieces, please provide a short Python list with tuples describing the track sequence. 
